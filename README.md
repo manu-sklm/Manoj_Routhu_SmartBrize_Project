@@ -4,7 +4,7 @@ DocSpot-Seamless-Appointment-Booking-for-Health 📘 Project Submission - README
 
 👥 Team Member:
 
-ANGAM MAHIDHAR (Team Leader)
+Routhu Manoj
 📝 Project Description: DocSpot is a user-friendly appointment booking platform designed for seamless interaction between patients and healthcare providers. It allows patients to search for doctors, book appointments in real-time, attend video consultations, and receive digital prescriptions. Doctors can manage their availability, view bookings, and update profiles. An admin panel enables user and appointment monitoring.
 
 The application is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with integrated online payments via Razorpay.
@@ -23,6 +23,7 @@ Project follows complete SDLC: Ideation → Requirement → Planning → Design 
 
 Submitted By:
 
-ANGAM MAHIDHAR Submitted Date: 28-06-2025
+Routhu Manoj ReSubmitted Date: 23-07-2025 
+
 
 Course: Full Stack Development (MERN stack) Institution: Rajiv Gandhi University of Knowledge Technologies
